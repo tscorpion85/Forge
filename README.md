@@ -3,7 +3,7 @@
 Two small browser experiments:
 
 - [Small Worlds](https://tscorpion85.github.io/Forge/) — paint and watch a living landscape.
-- [Orbit Workshop](https://tscorpion85.github.io/Forge/orbit.html) — launch planets around fixed suns.
+- [Orbit Workshop](https://tscorpion85.github.io/Forge/orbit.html) — launch planets around fixed suns with a projected path before release.
 
 ## Small Worlds
 
@@ -17,4 +17,4 @@ Forge is an open-ended collection of playable experiments. Each one works in a m
 
 Run `node tests/ecology.test.cjs` to check saved-world compatibility and the long-term habitat simulation.
 
-Run `node tests/orbit.test.cjs` to check the starter orbits and collisions.
+Run `node tests/orbit.test.cjs` to check the starter orbits, collisions, and launch predictions.
